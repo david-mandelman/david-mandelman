@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @david-mandelman
 - 👀 I’m interested in transitioning careers to data science and machine learning.
 - 🌱 I’m continuously improving my machine learning skills through online courses
-- 💞️ I’m looking to collaborate on a data science prject in my company.
+- 💞️ I’m looking to collaborate on a data science project in my company.
 - 📫 You can reach me at david.mandelman@thermofisher.com
 
 <!---
